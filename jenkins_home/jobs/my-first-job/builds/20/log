@@ -1,0 +1,9 @@
+Started by user [8mha:////4AXN7wdwRPlZKtDPwELfKFZWc5w9f5gtGdG35HQ2fJ0DAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzREgYB/dLi1CL93MTi0tz84tzEPADvMAZ9xQAAAA==[0mOsman Gani Khan Masum
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[my-first-job] $ /bin/sh -xe /tmp/jenkins16068433214515084654.sh
++ /tmp/script.sh echo Hello, Mishqat Masum true
+/tmp/script.sh: line 7: syntax error near unexpected token `then'
+/tmp/script.sh: line 7: `if["$SHOW" = "true"];then'
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
