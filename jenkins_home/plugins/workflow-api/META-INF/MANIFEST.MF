@@ -4,13 +4,13 @@ Build-Jdk-Spec: 11
 Specification-Title: Pipeline: API
 Specification-Version: 0.0
 Implementation-Title: Pipeline: API
-Implementation-Version: 1281.vca_5fddb_3fceb_
+Implementation-Version: 1283.v99c10937efcb_
 Group-Id: org.jenkins-ci.plugins.workflow
 Artifact-Id: workflow-api
 Short-Name: workflow-api
 Long-Name: Pipeline: API
 Url: https://github.com/jenkinsci/workflow-api-plugin
-Plugin-Version: 1281.vca_5fddb_3fceb_
+Plugin-Version: 1283.v99c10937efcb_
 Hudson-Version: 2.361.4
 Jenkins-Version: 2.361.4
 Plugin-Dependencies: workflow-step-api:639.v6eca_cd8c04a_a_,scm-api:672.
@@ -20,8 +20,8 @@ Plugin-License-Name: MIT License
 Plugin-License-Url: https://opensource.org/licenses/MIT
 Plugin-ScmConnection: scm:git:https://github.com/jenkinsci/workflow-api-
  plugin.git
-Plugin-ScmTag: ca5fddb3fcebcc6acf823c80600ec7ab9deb0d05
+Plugin-ScmTag: 99c10937efcb103362f544633058884a19d69adb
 Plugin-ScmUrl: https://github.com/jenkinsci/workflow-api-plugin
-Plugin-GitHash: ca5fddb3fcebcc6acf823c80600ec7ab9deb0d05
-Implementation-Build: ca5fddb3fcebcc6acf823c80600ec7ab9deb0d05
+Plugin-GitHash: 99c10937efcb103362f544633058884a19d69adb
+Implementation-Build: 99c10937efcb103362f544633058884a19d69adb
 

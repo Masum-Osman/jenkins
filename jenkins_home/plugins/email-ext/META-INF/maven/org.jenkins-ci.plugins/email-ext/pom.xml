@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jenkins-ci.plugins</groupId>
   <artifactId>email-ext</artifactId>
-  <version>2.101</version>
+  <version>2.102</version>
   <packaging>hpi</packaging>
   <name>Email Extension Plugin</name>
   <description>Allows to configure every aspect of email notifications: when an email is sent, who should receive it and what the email says</description>
@@ -75,7 +75,7 @@
   <scm>
     <connection>scm:git:https://github.com/jenkinsci/email-ext-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/email-ext-plugin.git</developerConnection>
-    <tag>email-ext-2.101</tag>
+    <tag>email-ext-2.102</tag>
     <url>https://github.com/jenkinsci/email-ext-plugin</url>
   </scm>
   <issueManagement>
@@ -108,7 +108,7 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>config-file-provider</artifactId>
-      <version>953.v0432a_802e4d2</version>
+      <version>959.vcff671a_4518b_</version>
       <scope>compile</scope>
       <optional>true</optional>
     </dependency>
@@ -127,7 +127,7 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>junit</artifactId>
-      <version>1217.v4297208a_a_b_ce</version>
+      <version>1240.vf9529b_881428</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

@@ -1,0 +1,16 @@
+Started by user [8mha:////4AXN7wdwRPlZKtDPwELfKFZWc5w9f5gtGdG35HQ2fJ0DAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzREgYB/dLi1CL93MTi0tz84tzEPADvMAZ9xQAAAA==[0mOsman Gani Khan Masum
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/n-dot-ssh
+[SSH] executing pre build script:
+
+
+[SSH] executing post build script:
+
+NAME=Masum
+echo "Hello, $NAME. Current date and time is $(date)" > /tmp/jenkins/files.txt
+bash: line 2: /tmp/jenkins/files.txt: Permission denied
+
+[SSH] completed
+[SSH] exit-status: 1
+
+Finished: FAILURE

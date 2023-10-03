@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<org.jvnet.hudson.plugins.SSHBuildWrapper_-DescriptorImpl plugin="ssh@2.6.1">
+  <sites>
+    <org.jvnet.hudson.plugins.CredentialsSSHSite>
+      <hostname>103.199.168.130</hostname>
+      <username>custodian</username>
+      <port>3716</port>
+      <credentialId>63385022-c488-4dae-b377-213c0e4dcd92</credentialId>
+      <serverAliveInterval>0</serverAliveInterval>
+      <timeout>0</timeout>
+      <pty>false</pty>
+    </org.jvnet.hudson.plugins.CredentialsSSHSite>
+  </sites>
+</org.jvnet.hudson.plugins.SSHBuildWrapper_-DescriptorImpl>
